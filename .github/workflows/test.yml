@@ -2,7 +2,7 @@
 name: Create/update tag
 on:
   push:
-    branches: "master"
+    branches: "main"
 jobs:
   create-tag:
     runs-on: ubuntu-latest
