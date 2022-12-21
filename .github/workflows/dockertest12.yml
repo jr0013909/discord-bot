@@ -3,9 +3,7 @@ name: Docker Image CI
 on:
   workflow_dispatch:
   push:
-    branches: [ "jr0013909-test1" ]
-  pull_request:
-    branches: [ "jr0013909-test1" ]
+    branches: [ "jr0013909-patch-6" ]
 
 jobs:
 
