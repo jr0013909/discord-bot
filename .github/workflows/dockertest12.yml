@@ -3,7 +3,7 @@ name: Docker Image CI
 on:
   workflow_dispatch:
   push:
-    branches: [ "jr0013909-patch-6" ]
+    branches: [ "jr0013909-patch-60" ]
 
 jobs:
 
